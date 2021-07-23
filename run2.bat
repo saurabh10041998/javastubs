@@ -1,2 +1,2 @@
-javac -nowarn -cp ..\lib\*;. -d ..\classes demo\TestAutocall.java
-java -cp ..\lib\*;..\classes;. demo.TestAutocall D:\\finiq\\project-notes\\EQC-Europe\\Source-code\\FinIQ_RBC_ELN_API\\dat\\EQD_BuySide\\FinIQ_EQD_BuySide_Config.properties
+javac -nowarn -cp ..\lib\*;. -d ..\classes demo\TestClassForFunction.java
+java -cp ..\lib\*;..\classes;. demo.TestClassForFunction cmdline_args
