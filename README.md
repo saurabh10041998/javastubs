@@ -7,3 +7,10 @@
 ```bash
     run2.bat
 ```
+
+# FooBar
+Solutions for googles foo bar challenges.
+```bash
+	Solution.java 	# solution for level 2
+	solution.py 	# solutin for level 1
+```
