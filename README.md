@@ -11,6 +11,7 @@
 # FooBar
 Solutions for googles foo bar challenges.
 ```bash
-	Solution.java 	# solution for level 2
+	Solution.java 	# solution for level 2 problem 1( 50% )
 	solution.py 	# solutin for level 1
+	solution2.py 	# solution for level2 problem2( 100% )
 ```
